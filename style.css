@@ -1,0 +1,68 @@
+#container h1 {
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container h3 {
+    color:green;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+cite {
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+
+body{
+    background: lightgrey;
+    
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+.fdiv {
+    border: 5px outset black;
+    background-color: grey;
+    text-align:center;
+    height:fit-content;
+    font-size: larger;
+    animation-name: identifier;
+    animation-duration: 5s;
+}
+
+.links {
+    border: 2px outset black;
+    background-color: grey;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.linked{
+    border: 5px outset black;
+    background-color: goldenrod;
+    text-align: center;
+    font-size: x-large;
+    margin: 10px;
+}
+
+.front{
+    text-align: center;
+    font-size: xx-large;
+    padding: 2px;
+    height: 40px;
+    margin: 10px;
+    word-spacing: 30px;
+}
+
+.bio{
+    text-align: center;
+    font-size: larger;
+}
